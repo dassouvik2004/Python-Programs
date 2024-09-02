@@ -1,0 +1,5 @@
+tuple1 = (2,3,5)
+list1 = list(tuple1)
+list1.append(6)
+tuple1 = tuple(list1)
+print(tuple1)
