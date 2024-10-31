@@ -10,4 +10,4 @@ swopam = student()
 swopam.name = "Swopam Ganguly" # This is instance attribute
 print(f"Name: {swopam.name} Stream: {swopam.stream} Year: {swopam.year}")
 
-# Here 'name' is the instance/object attribute and 'stream' & 'year' are the class attributes as they directly belong to the class
+# Here 'name' is the object/instance attribute and 'stream' & 'year' are the class attributes as they directly belong to the class

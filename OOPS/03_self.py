@@ -2,7 +2,7 @@ class student:
     stream = "Beta" # This is a class attribute
     year = 2
 
-    @staticmethod # It will run automatically without self
+    @staticmethod # It will run automatically without self.
     def greet():
         print("Hello, Welcome to Techno India Hooghly")
 

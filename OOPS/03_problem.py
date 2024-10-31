@@ -3,7 +3,7 @@ class calculator:
         self.n = n
     @staticmethod
     def greet():
-        print("Hello, I am solving the problem of square,cube & squareroot of a given number -")
+        print("Hello, I am solving the problem of square cube & squareroot of a given number -")
     def square(self):
         print(f"The square is {self.n*self.n}")
 

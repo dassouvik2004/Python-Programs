@@ -1,5 +1,5 @@
 class student:
-    def __init__(self,name,stream,year): # This is dunder method which is automatically called
+    def __init__(self,name,stream,year): #This is dunder method which is automatically called
         self.name = name
         self.stream = stream
         self.year = year
