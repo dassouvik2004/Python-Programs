@@ -1,1 +1,2 @@
-shape = shape()
+obj = Employee()
+print(obj.a) 

@@ -13,11 +13,11 @@ class Manager(Programmer):
         print("Constructor of Manager")
     c = 3
 
-# obj = Employee()
-# print(obj.a) 
+obj = Employee()
+print(obj.a) 
 
 # obj = Programmer()
 # print(obj.a,obj.b)
 
-obj = Manager()
-print(obj.a,obj.b,obj.c)
+# obj = Manager()
+# print(obj.a,obj.b,obj.c)
