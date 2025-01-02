@@ -16,7 +16,7 @@ print("Popping element is: ",num)
 print("After popping element of index position 0: ",element)
 
 element[1:3] = []
-print("After removing element of indexx position 0 and position 2: ",element)
+print("After removing element of index position 0 and position 2: ",element)
 
 element.clear()
 print("After removing all existing elementS: ",element)
